@@ -7,4 +7,4 @@ func main() {
 	cards.printThis()
 }
 
-Println
+Println this
