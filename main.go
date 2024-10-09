@@ -6,5 +6,3 @@ func main() {
 
 	cards.printThis()
 }
-
-Println this

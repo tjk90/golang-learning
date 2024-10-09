@@ -1,3 +1,3 @@
-module github.com/tjk90/mymodule
+module example.com/first-app
 
 go 1.22.2
